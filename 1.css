@@ -1,0 +1,42 @@
+body{
+    font-family: Verdana, sans-serif;
+}
+nav{
+    font-size: 15px;
+}
+nav a:hover{
+    background-color: rgb(219, 219, 219);
+}
+.architect{
+    height: auto;
+}
+
+.header{
+    background-color: black;
+    padding: 8px 16px;
+}
+.maintxt{
+    position: relative;
+}
+.c-h1{
+    position: absolute;
+    top:350px;
+    right: 500px;
+}
+.maintxt h1{
+    font-size: 36px;
+    font-family: 'Segoe UI', sans-serif;
+}
+.c-imgs img{
+    width: 300px;
+    height:220px ;
+}
+.c-min{
+    position: relative;
+}
+.c-min .s1{
+    position: absolute;
+    left:12px;
+    background-color: black;
+    color: white;
+}
